@@ -4,6 +4,6 @@ A minimalistic nano-react app for querying the OpenWeatherMap API.
 ## demo
 [view demo](https://weather-display.surge.sh/)
 
-![](/src/assets/weather-app.gif)
+![](weather-app.gif)
 
 - `npm start` — This will spawn a development server with a default port of `1234`.
