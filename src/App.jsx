@@ -6,7 +6,7 @@ import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import SearchBar from './components/SearchBar';
 import WeatherDisplay from "./components/WeatherDisplay";
-import { API_KEY } from "./config";
+import { API_KEY } from "../config";
 
 const App = () => {
   const [weatherData, setWeatherData] = useState(null);
